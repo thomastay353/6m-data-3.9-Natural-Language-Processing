@@ -26,6 +26,21 @@ By the end of L09 you will be able to:
 4. **Use a pretrained sentence-transformer** (`all-MiniLM-L6-v2`) to embed an entire catalogue in seconds.
 5. **Build a working semantic search engine** with top-K retrieval, compare it head-to-head against TF-IDF, and ship it as a function.
 
+## Run in the cloud (no setup) — Google Colab
+
+No laptop GPU or local install needed — these notebooks run on Colab's free CPU (the pretrained model only does fast inference, not training). Each notebook installs `sentence-transformers` on first run and loads its data straight from GitHub, so there's nothing to upload.
+
+| Notebook | Open |
+|---|---|
+| 01 · Monday morning (pre-class) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/01_monday_morning.ipynb) |
+| 02 · Words to vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/02_words_to_vectors.ipynb) |
+| 03 · Pretrained embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/03_pretrained_embeddings.ipynb) |
+| 04 · Semantic search engine | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/04_semantic_search.ipynb) |
+| Assignment · Recipe search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/assignment.ipynb) |
+| Optional extensions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/6m-data-3.9-Natural-Language-Processing/blob/main/notebooks/optional_extensions.ipynb) |
+
+> Prefer a local install (VS Code + conda)? See [setup.md](setup.md). The notebooks detect whether they're local or on Colab and load data accordingly — the same file runs in both.
+
 ## Phase 1 — Pre-class (≈ 30 min)
 
 - Watch the [lesson intro video](https://youtu.be/uworo8tadFQ) (~5 min)

@@ -26,15 +26,17 @@ conda --version
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/flexfengfeng/dsai-m3-l09-learner.git
-cd dsai-m3-l09-learner
+git clone https://github.com/flexfengfeng/6m-data-3.9-Natural-Language-Processing.git
+cd 6m-data-3.9-Natural-Language-Processing
 ```
+
+> **No local install wanted?** You can skip all of this and run every notebook in Google Colab instead — see the "Run in the cloud" section in [README.md](./README.md).
 
 ---
 
 ## 3. Create the conda environment
 
-From inside the `dsai-m3-l09-learner` folder:
+From inside the `6m-data-3.9-Natural-Language-Processing` folder:
 
 ```bash
 conda env create -f environment.yml
