@@ -14,7 +14,7 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 ## Step 0 — Watch the intro video (~5 min)
 
-▶️ **[L09 Intro — NLP, Embeddings & Semantic Search](https://youtu.be/uworo8tadFQ)**
+▶️ **[L09 The Geometry of Meaning](https://youtu.be/uworo8tadFQ)**
 
 A short orientation to the week: why keyword search fails on real catalogues, and how embeddings let Sarah build meaning-based search. Watch it before opening the notebook.
 
