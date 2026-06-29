@@ -64,7 +64,7 @@ conda activate dsai-m3
 ## 4. First-run downloads (automatic)
 
 - **Data (included in the repo):** `notebooks/data/northstar_catalogue.csv` (76 products, ~15 KB) and `notebooks/data/recipes.csv` (30 recipes, ~6 KB).
-- **Models:** first run downloads `all-MiniLM-L6-v2` (~80 MB) from Hugging Face into `~/.cache/huggingface/`. `optional_extensions.ipynb` additionally downloads `paraphrase-multilingual-MiniLM-L12-v2` (~280 MB).
+- **Models:** first run downloads `all-MiniLM-L6-v2` (~80 MB) from Hugging Face into `~/.cache/huggingface/`. `optional_extensions.ipynb` additionally downloads `paraphrase-multilingual-MiniLM-L12-v2` (~470 MB).
 
 Everything in L09 runs comfortably on CPU — no GPU needed.
 
